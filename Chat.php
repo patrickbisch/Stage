@@ -7,4 +7,5 @@ class Chat extends Animaux
         Animaux::$LstAnimaux[] = new Chat($Nom, $Tarif, $Nourriture, $Quantite);
         return(1);
     }
+    //  Test pour Git
 }
